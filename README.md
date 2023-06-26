@@ -1,7 +1,6 @@
-#Hey!
-##Welcome to my GitHub Profile
+<h1>Hey!</h1>
+<quote>Welcome to My GitHub Profile</quote>
 
-GET /github/followers/mannayush29
 - 👋 Hi, I’m @AyushMann29
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Python
