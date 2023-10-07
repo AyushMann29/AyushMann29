@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @AyushMann29
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript
 - 📫 You can contact me at mannayush60@gmail.com
 
 <!---
