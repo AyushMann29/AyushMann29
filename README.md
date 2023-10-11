@@ -10,8 +10,6 @@
 
 -   🌱 I’m currently learning **ExpressJS, Sockets IO, AWS, GCP**
 
--   🔭 I’m currently working on **Encrypted Chatting Rooms**
-
 -   🤔 I’m looking for help with **Backend and Microservices**
 
 -   💬 Ask me about **CSS, JS, Python**
@@ -22,7 +20,7 @@
 
 -   ⚡ Fun fact **Tea is love ❣️**
 
-I believe in the saying, **"The pain you feel today will be the strenght tomorrow."** <br/>
+I believe in the saying, **"The world is a vast place to be, but imagination is larger."** <br/>
 
 ## 🌎Find me all around the Web :
 
