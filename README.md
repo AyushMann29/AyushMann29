@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width = "60" height = "60">
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width = "60" height = "60">
 
-[![wakatime](https://wakatime.com/badge/user/e2af8303-459a-41df-a34a-9d58ab7f92d2/project/021f3fac-f095-4838-adcc-19e90cd3bf67.svg)](https://wakatime.com/@c57af15b-b45a-4133-a1bf-3eaf1112645c)
+[![wakatime](https://wakatime.com/badge/user/e2af8303-459a-41df-a34a-9d58ab7f92d2.svg)](https://wakatime.com/@e2af8303-459a-41df-a34a-9d58ab7f92d2)
 
 -   🌱 My name : Ayush Mann
 
