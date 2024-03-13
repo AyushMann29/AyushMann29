@@ -62,5 +62,5 @@ I believe in the saying, **"The world is a vast place to be, but imagination is 
 </p>
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@mannayush6096388/30-nites-of-code)  
-  ![@mannayush6096388 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mannayush6096388)
+  [Check out my progress!](https://www.codedex.io/@AyushMann29/30-nites-of-code)  
+  ![@AyushMann29 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=AyushMann29)
