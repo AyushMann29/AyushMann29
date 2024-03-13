@@ -4,6 +4,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width = "60" height = "60">
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width = "60" height = "60">
 
+
 [![wakatime](https://wakatime.com/badge/user/e2af8303-459a-41df-a34a-9d58ab7f92d2.svg)](https://wakatime.com/@e2af8303-459a-41df-a34a-9d58ab7f92d2)
 
 -   🌱 My name : Ayush Mann
@@ -59,3 +60,7 @@ I believe in the saying, **"The world is a vast place to be, but imagination is 
 <p float="left">
  <a  href="https://start.fedoraproject.org/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"  alt="Fedora" /></a>
 </p>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@mannayush6096388/30-nites-of-code)  
+  ![@mannayush6096388 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mannayush6096388)
