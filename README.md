@@ -60,7 +60,11 @@ I believe in the saying, **"The world is a vast place to be, but imagination is 
 <p float="left">
  <a  href="https://start.fedoraproject.org/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"  alt="Fedora" /></a>
 </p>
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@AyushMann29/30-nites-of-code)  
-  ![@AyushMann29 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=AyushMann29)
+<div align="center">
+<h2> #30NitesOfCode: </h2>
+</div>
+<p align="center">
+  <a href="https://www.codedex.io/@AyushMann29/30-nites-of-code">Check out my progress!</a>
+  <br>
+  <img src="https://www.codedex.io/api/petStatus?user=AyushMann29" alt="@AyushMann29 #30NitesOfCode">
+</p>
