@@ -1,3 +1,5 @@
+
+<div color="#d4af37">
 <h1 align="center">Hi 👋, I'm Ayush Mann</h1>
 <h3 align="center">An enthusiast coding to make the world better</h3>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width = "60" height = "60">
@@ -7,9 +9,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/e2af8303-459a-41df-a34a-9d58ab7f92d2.svg)](https://wakatime.com/@e2af8303-459a-41df-a34a-9d58ab7f92d2)
 
--   🌱 My name : Ayush Mann
+-   🌱 My name : **Ayush Mann**
 
 -   🌱 I’m currently learning **ExpressJS, Sockets IO, AWS, GCP**
+<a href="https://github.com/ayushmann29/"><img src="https://i.ibb.co/yppMSwH/Github-bg.png" alt="Github-bg" border="0" align="right"></a>
 
 -   🤔 I’m looking for help with **Backend and Microservices**
 
@@ -22,17 +25,23 @@
 -   ⚡ Fun fact **Tea is love ❣️**
 
 I believe in the saying, **"The world is a vast place to be, but imagination is larger."** <br/>
+</div>
+<div color="green">
 
-## 🌎Find me all around the Web :
-
+<h1>
+🌎Find me all around the Web :
+</h1>
 <p  float="left">
 
 <a  href="https://www.linkedin.com/in/ayush-mann-478684253/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="ayushmann-linkedin" /></a><a  href="https://instagram.com/reproducibletie1"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="reproducibletie1"/></a> 
 
 </p>
-
-## 🛠Tools and Technologies used by me :
-
+</div>
+<div color="gold">
+<h1>
+ 🛠 Tools and Technologies used by me :
+</h1>
+ 
 ### Languages:
 
 <p float="left">
@@ -61,10 +70,11 @@ I believe in the saying, **"The world is a vast place to be, but imagination is 
  <a  href="https://start.fedoraproject.org/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"  alt="Fedora" /></a>
 </p>
 <div align="center">
-<h2> #30NitesOfCode: </h2>
+<h2 color="green"> #30NitesOfCode: </h2>
 </div>
 <p align="center">
   <a href="https://www.codedex.io/@AyushMann29/30-nites-of-code">Check out my progress!</a>
   <br>
   <img src="https://www.codedex.io/api/petStatus?user=AyushMann29" alt="@AyushMann29 #30NitesOfCode">
 </p>
+</div>
