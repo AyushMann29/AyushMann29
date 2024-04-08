@@ -33,7 +33,9 @@ I believe in the saying, **"The world is a vast place to be, but imagination is 
 </h1>
 <p  float="left">
 
-<a  href="https://www.linkedin.com/in/ayush-mann-478684253/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="ayushmann-linkedin" /></a><a  href="https://instagram.com/reproducibletie1"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="reproducibletie1"/></a> 
+<a  href="https://www.linkedin.com/in/ayush-mann-478684253/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="ayushmann-linkedin" /></a>
+<a  href="https://instagram.com/reproducibletie1"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="reproducibletie1"/></a>
+<a  href="https://www.youtube.com/channel/UC_KHYH_wehEg9xPzjkhpZSA?sub_confirmation=1"  target="blank"><img  align="center"  src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"  alt="ayushmann-youtube" /></a>
 
 </p>
 </div>
