@@ -76,7 +76,8 @@ I believe in the saying, **"The world is a vast place to be, but imagination is 
 </div>
 <p align="center">
   <a href="https://www.codedex.io/@AyushMann29/30-nites-of-code">Check out my progress!</a>
-  <br>
-  <img src="https://www.codedex.io/api/petStatus?user=AyushMann29" alt="@AyushMann29 #30NitesOfCode">
 </p>
+  <br>
+  <img align="left" src="https://www.codedex.io/api/petStatus?user=AyushMann29" alt="@AyushMann29 #30NitesOfCode">
+  <img align="right" src="https://www.codedex.io/api/petStatus?user=ayush23bs50789" alt="2nd pet">
 </div>
