@@ -90,3 +90,4 @@ I believe in the saying, **"The world is a vast place to be, but imagination is 
 ## My Progress
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmann29&layout=pie)
 
+[![An image of @ayushmannvit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushmannvit)](https://holopin.io/@ayushmannvit)
