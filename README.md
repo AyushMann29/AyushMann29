@@ -52,6 +52,10 @@ I believe in the saying, **"The world is a vast place to be, but imagination is 
 <a  href="https://html.com"  target="blank"><img  align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5" /></a>
 <a  href="https://www.css.com/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/CSS3-F34B7D?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3" /></a>
 <a  href="https://www.javascript.com/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  alt="JavaScript" /></a>
+<a  href="https://www.isocpp.org//"  target="blank"><img  align="center"  src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"  alt="Python" /></a>
+<a  href="https://www.java.com"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"  alt="Python" /></a>
+ 
+ 
 </p>
 
 ### Tools:
@@ -65,6 +69,13 @@ I believe in the saying, **"The world is a vast place to be, but imagination is 
 <a  href="https://www.adobe.com/products/photoshop.html"  target="blank"><img  align="center"  src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"  alt="Adobe Photoshop" /></a>
 <a  href="https://www.adobe.com/products/xd.html"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"  alt="Adobe XD" /></a>
 <a  href="https://www.figma.com/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"  alt="Figma" /></a>
+</p>
+
+### Services
+<p float="left">
+ 
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 </p>
 
 ### Operting Systems:
