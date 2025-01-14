@@ -92,9 +92,8 @@ I believe in the saying, **"The world is a vast place to be, but imagination is 
 </p>
 <br>
 <img src="https://www.codedex.io/api/petStatus?user=AyushMann29" alt="@AyushMann29 #30NitesOfCode">
-<img src="https://www.codedex.io/api/petStatus?user=ayush23bs50789" alt="2nd pet">
+<img src="https://www.codedex.io/api/petStatus?user=AyushMann2901" alt="2nd pet">
 
- 
  <h1>Hacktoberfest-2024</h1>
  
 [![An image of @ayushmannvit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushmannvit)](https://holopin.io/@ayushmannvit)
