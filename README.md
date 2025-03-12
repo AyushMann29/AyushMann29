@@ -17,15 +17,16 @@
 
 -   🤔 I’m looking for help with **Backend and Microservices**
 
--   💬 Ask me about **CSS, JS, Python**
-
--   📚 Currently I am reading **Atomic Habits**
+-   💬 Ask me about **CSS, JS, Python, React, Fun Game Designs**
 
 -   📫 Contact me anytime at **mannayush60@gmail.com**
 
--   ⚡ Fun fact **Tea is love ❣️**
+-   ⚡ Fun fact **A coder without a coffee addiction ❣️**
+
+-   😉 A fun way to know me: <a href="https://portfolio-90s-style.vercel.app/"> Fun Porfolio </a>
 
 I believe in the saying, **"The world is a vast place to be, but imagination is larger."** <br/>
+
 </div>
 <div color="green">
 
