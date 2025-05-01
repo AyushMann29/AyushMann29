@@ -24,7 +24,7 @@
 -   ⚡ Fun fact **A coder without a coffee addiction ❣️**
 
 -   😉 A fun way to know me: <a href="https://portfolio-90s-style.vercel.app/"> Fun Porfolio </a>
--    A official Portfolio: <a href="https://portfolio-ayush-mann.vercel.app/"> Official Portfolio</a>
+-   👋An official Portfolio: <a href="https://portfolio-ayush-mann.vercel.app/"> Official Portfolio</a>
 
 I believe in the saying, **"The world is a vast place to be, but imagination is larger."** <br/>
 
